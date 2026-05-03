@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+groq
+faiss-cpu
+sentence-transformers
+pyngrok
+nest-asyncio
+httpx
+pandas
+python-multipart
+pydantic
